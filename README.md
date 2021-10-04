@@ -1,6 +1,6 @@
 ## Oiii, eu sou o Deivid, estudante de programação e várias outras coisas! 
 
-- 🔮 Procuro uma vaga Dev. Junior.
+- 🟣 Procuro uma vaga Dev. Junior.
 - 👾 Estou aprendendo HTML/CSS e JAVA
 - 💜 Gosto de ter amigos pra fazer muitas perguntas sobre programação e desenvolvimento em geral.
 - 🍇 Pronome: Ele/Dele
