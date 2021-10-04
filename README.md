@@ -16,5 +16,4 @@
 <div> 
   <a href ="mailto:deividmendoncaprofissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/deivid-mendonça/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=LinkedIn&logoColor=pink" target="_blank"<img scr="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
