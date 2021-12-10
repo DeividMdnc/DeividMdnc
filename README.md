@@ -1,10 +1,5 @@
 ## Oiii! =^.~= 
-
-- 🟣 Procuro uma DUO pra programar.
-- 👾 Estou aprendendo HTML/CSS e JAVA
-- 💜 Gosto de ter amigos pra fazer muitas perguntas sobre programação e desenvolvimento em geral.
-- 🍇 Pronome: Ele/Dele
-- ☂️ Fun fact: Curto Lolzinho!
+- 👾 Estou aprendendo HTML/CSS e JAVASCRIPT
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/855c4f1fd968fc0fdbbd823cbca6a653.gif">
 </div>
 
